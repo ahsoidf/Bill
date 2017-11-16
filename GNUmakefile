@@ -22,7 +22,6 @@ endif
 LABSETUP ?= ./
 
 TOP = .
-
 # Cross-compiler jos toolchain
 #
 # This Makefile will automatically use the cross-compiler toolchain
